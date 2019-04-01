@@ -11,9 +11,10 @@ title                    : "Research Homepage"
 title_separator          : "-"
 name                     : &name "Weimin WANG"
 description              : &description "Researcher at AIST"
-# url                      : "https://wang-wm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "HTTPS://wang-wm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : "http://localhost:4000" #
-baseurl                  : "HTTPS://wang-wm.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# baseurl                  : "HTTPS://wang-wm.github.io" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 teaser                   :  "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
