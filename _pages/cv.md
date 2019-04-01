@@ -11,23 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D, Computational Science and Engineering, Nagoya University, Oct. 2014 - Dec. 2017 
+* M.S., Business Engineering, Osaka University, Apr. 2010 - Mar.2012
+* B.Eng., Information Engineering, Shanghai Jiao Tong University, Sep. 2005 - Jun.2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Researcher, National Institute of Advanced Industrial Science and Technology, Tokyo, Apr. 2018 - Now
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Researcher, Nagoya University, Nagoya, Oct. 2017 - Mar. 2018
+
+* Hardware Engineering, NF Corporation, Yokohama, Apr. 2012 - Sep. 2014
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
