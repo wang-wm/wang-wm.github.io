@@ -90,23 +90,23 @@ author:
   location         : "Japan"
   employer         :
   pubmed           : 
-  # googlescholar    : "https://scholar.google.com/citations?user=qB3_NQgAAAAJ&hl=en&authuser=2"
-  # email            : 
-  # researchgate     :  "https://www.researchgate.net/profile/Weimin_Wang15"
-  # uri              :
-  # bitbucket        :
-  # codepen          :
-  # dribbble         :
-  # flickr           :
-  # facebook         :
-  # foursquare       :
-  # github           : "mfxox"
-  # google_plus      :
-  # keybase          :
-  # instagram        :
-  # lastfm           :
-  # linkedin         :
-  # orcid            : "https://orcid.org/0000-0001-6557-7175"
+  googlescholar    : #"https://scholar.google.com/citations?user=qB3_NQgAAAAJ&hl=en&authuser=2"
+  email            : 
+  researchgate     : #"https://www.researchgate.net/profile/Weimin_Wang15"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : #"mfxox"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  orcid            : #"https://orcid.org/0000-0001-6557-7175"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
