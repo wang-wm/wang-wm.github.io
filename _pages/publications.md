@@ -15,9 +15,9 @@ author_profile: true
 ### 2019
 <div class="media stream-item" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
     <div class="media-body">
-        <h2 class="article-title mb-0 mt-0" itemprop="name">
+        <h1 class="article-title mb-0 mt-0" itemprop="name">
 Neural Style Transfer for Point Clouds
-      </h2>
+      </h1>
         <div class="stream-meta article-metadata">
             <div itemprop="author">
                 <!--             <span itemscope="" itemprop="author" itemtype="http://schema.org/Person"> -->
@@ -46,9 +46,9 @@ Neural Style Transfer for Point Clouds
 ### 2018
 <div class="media stream-item" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
     <div class="media-body">
-        <h2 class="article-title mb-0 mt-0" itemprop="name">
+        <h1 class="article-title mb-0 mt-0" itemprop="name">
    Image Translation Between Sar and Optical Imagery with Generative Adversarial Nets
-      </h2>
+      </h1>
         <div class="stream-meta article-metadata">
             <div itemprop="author">
                 <!--             <span itemscope="" itemprop="author" itemtype="http://schema.org/Person"> -->
@@ -76,9 +76,9 @@ Neural Style Transfer for Point Clouds
 </div>
 <div class="media stream-item" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
     <div class="media-body">
-        <h2 class="article-title mb-0 mt-0" itemprop="name">
+        <h1 class="article-title mb-0 mt-0" itemprop="name">
          Image-Matching Based Identification of Store Signage Using Web-Crawled Information
-      </h2>
+      </h1>
         <div class="stream-meta article-metadata">
             <div itemprop="author">
                 <!--             <span itemscope="" itemprop="author" itemtype="http://schema.org/Person"> -->
@@ -107,9 +107,9 @@ Neural Style Transfer for Point Clouds
 ### 2017
 <div class="media stream-item" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
     <div class="media-body">
-        <h2 class="article-title mb-0 mt-0" itemprop="name">
+        <h1 class="article-title mb-0 mt-0" itemprop="name">
         Dense Optical Flow Based Change Detection Network Robust to Difference of Camera Viewpoints
-      </h2>
+      </h1>
         <div class="stream-meta article-metadata">
             <div itemprop="author">
                 <!--             <span itemscope="" itemprop="author" itemtype="http://schema.org/Person"> -->
@@ -136,9 +136,9 @@ Neural Style Transfer for Point Clouds
 </div>
 <div class="media stream-item" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
     <div class="media-body">
-        <h2 class="article-title mb-0 mt-0" itemprop="name">
+        <h1 class="article-title mb-0 mt-0" itemprop="name">
         Filmy Cloud Removal on Satellite Imagery with Multispectral Conditional Generative Adversarial Nets
-      </h2>
+      </h1>
         <div class="stream-meta article-metadata">
             <div itemprop="author">
                 <!--             <span itemscope="" itemprop="author" itemtype="http://schema.org/Person"> -->
@@ -165,9 +165,9 @@ Neural Style Transfer for Point Clouds
 </div>
 <div class="media stream-item" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
     <div class="media-body">
-        <h2 class="article-title mb-0 mt-0" itemprop="name">
+        <h1 class="article-title mb-0 mt-0" itemprop="name">
         Reflectance Intensity Assisted Automatic and Accurate Extrinsic Calibration of 3D LiDAR and Panoramic Camera Using a Printed Chessboard
-      </h2>
+      </h1>
         <div class="stream-meta article-metadata">
             <div itemprop="author">
                 <!--             <span itemscope="" itemprop="author" itemtype="http://schema.org/Person"> -->
@@ -196,9 +196,9 @@ Neural Style Transfer for Point Clouds
 ### 2016
 <div class="media stream-item" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
     <div class="media-body">
-        <h2 class="article-title mb-0 mt-0" itemprop="name">
+        <h1 class="article-title mb-0 mt-0" itemprop="name">
         Incremental and Enhanced Scanline-Based Segmentation Method for Surface Reconstruction of Sparse LiDAR Data
-      </h2>
+      </h1>
         <div class="stream-meta article-metadata">
             <div itemprop="author">
                 <!--             <span itemscope="" itemprop="author" itemtype="http://schema.org/Person"> -->
