@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Research Homepage"
+title                    : "Weimin Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Weimin WANG"
 description              : &description "Researcher at AIST"
