@@ -70,7 +70,7 @@ Neural Style Transfer for Point Clouds
     </div>
     <div class="ml-3">
         <!-- <a href=""> -->
-            <img src="/images/sar_igarss2018.png" itemprop="image">
+            <img src="/images/sar_igarss2018.jpg" itemprop="image">
         <!-- </a> -->
     </div>
 </div>
