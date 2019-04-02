@@ -70,7 +70,7 @@ Neural Style Transfer for Point Clouds
     </div>
     <div class="ml-3">
         <!-- <a href=""> -->
-            <img src="/images/sar_igarss2018.pdf" itemprop="image">
+            <img src="/images/sar_igarss2018.png" itemprop="image">
         <!-- </a> -->
     </div>
 </div>
@@ -99,7 +99,7 @@ Neural Style Transfer for Point Clouds
     </div>
     <div class="ml-3">
         <!-- <a href=""> -->
-            <img src="/images/signage_recong_ieee_2018.pdf" itemprop="image">
+            <img src="/images/signage_recong_ieee_2018.jpg" itemprop="image">
         <!-- </a> -->
     </div>
 </div>
@@ -130,7 +130,7 @@ Neural Style Transfer for Point Clouds
     </div>
     <div class="ml-3">
         <!-- <a href=""> -->
-            <img src="/images/optical_flow_change_detection_2017.pdf" itemprop="image">
+            <img src="/images/optical_flow_change_detection_2017.jpg" itemprop="image">
         <!-- </a> -->
     </div>
 </div>
@@ -159,7 +159,7 @@ Neural Style Transfer for Point Clouds
     </div>
     <div class="ml-3">
         <!-- <a href=""> -->
-            <img src="/images/mcgan_2017.pdf" itemprop="image">
+            <img src="/images/mcgan_2017.png itemprop="image">
         <!-- </a> -->
     </div>
 </div>
