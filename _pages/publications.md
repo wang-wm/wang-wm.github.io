@@ -52,7 +52,7 @@ Neural Style Transfer for Point Clouds
         <div class="stream-meta article-metadata">
             <div itemprop="author">
                 <!--             <span itemscope="" itemprop="author" itemtype="http://schema.org/Person"> -->
-                Kenji Enomoto, Ken Sakuraad, <b>Weimin Wang</b>, Kawaguchi Nobuo, Masashi Matsuoka,Ryosuke Nakamura. <br>IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2018.
+                Kenji Enomoto, Ken Sakurada, <b>Weimin Wang</b>, Kawaguchi Nobuo, Masashi Matsuoka,Ryosuke Nakamura. <br>IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2018.
             </div>
         </div>
         <div class="btn-links">
