@@ -11,7 +11,7 @@ title                    : "Research Homepage"
 title_separator          : "-"
 name                     : &name "Weimin WANG"
 description              : &description "Researcher at AIST"
-url                      : "https://wang-wm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://wei-min.wang" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : "http://localhost:4000" #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # baseurl                  : "HTTPS://wang-wm.github.io" # the subpath of your site, e.g. "/blog"
@@ -59,7 +59,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -77,7 +77,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+  tracking_id          :
 
 
 # Site Author
@@ -91,7 +91,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qB3_NQgAAAAJ&hl=en&authuser=2"
-  email            : 
+  email            : "weimin.wang[a~t]aist.go.jp "
   researchgate     : "https://www.researchgate.net/profile/Weimin_Wang15"
   uri              :
   bitbucket        :

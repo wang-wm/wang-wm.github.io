@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D, Computational Science and Engineering, Nagoya University, Oct. 2014 - Dec. 2017 
-* M.S., Business Engineering, Osaka University, Apr. 2010 - Mar.2012
-* B.Eng., Information Engineering, Shanghai Jiao Tong University, Sep. 2005 - Jun.2009
+* M.S., Business Engineering, Osaka University, Apr. 2010 - Mar. 2012
+* B.Eng., Information Engineering, Shanghai Jiao Tong University, Sep. 2005 - Jun. 2009
 
 Work experience
 ======
