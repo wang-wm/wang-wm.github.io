@@ -18,9 +18,7 @@ Education
 Work experience
 ======
 * Researcher, National Institute of Advanced Industrial Science and Technology, Tokyo, Apr. 2018 - Now
-
 * Postdoctoral Researcher, Nagoya University, Nagoya, Oct. 2017 - Mar. 2018
-
 * Hardware Engineering, NF Corporation, Yokohama, Apr. 2012 - Sep. 2014
   
 <!-- Skills
