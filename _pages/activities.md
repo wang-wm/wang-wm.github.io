@@ -11,6 +11,6 @@ redirect_from:
 
 {% include base_path %}
 
-**Journal reviewer**  
-Advanced Robotics
+<!-- **Journal reviewer**  
+Advanced Robotics -->
 
