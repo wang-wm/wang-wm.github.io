@@ -137,15 +137,17 @@ div.ftheader{
     margin-bottom:16px;
 }
 .project-images{
-    display:flex;
-    flex-wrap:wrap;
-    gap:10px;
+    display:grid;
+    gap:8px;
+    grid-template-columns:repeat(auto-fit, minmax(145px, 1fr));
     margin:8px 0 4px;
+    max-width:620px;
 }
 .project-images img{
     display:block;
-    height:auto;
-    max-width:calc(50% - 5px);
+    height:118px;
+    object-fit:cover;
+    width:100%;
 }
 
 @media only screen and (max-width: 599px) {
@@ -161,5 +163,9 @@ div.ftheader{
     }
     div.ftheader{font-size:1em;padding-left:0}
     div.ftsubheader{padding-left:8px;padding-right:8px}
-    .project-images img{max-width:100%}
+    .project-images{
+        grid-template-columns:repeat(2, minmax(0, 1fr));
+        max-width:100%;
+    }
+    .project-images img{height:96px}
 }
