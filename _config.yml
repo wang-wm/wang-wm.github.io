@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weimin Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Weimin WANG"
-description              : &description "Researcher at AIST"
+description              : &description "Associate Professor at Dalian University of Technology"
 url                      : "https://wei-min.wang" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : "http://localhost:4000" #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,14 +84,12 @@ analytics:
 author:
   name             : "Weimin WANG"
   avatar           : "profile.jpg"
-  bio              : "Researcher  
-  at  
-  National Institute of Advanced Industrial Science and Technology (AIST)"
-  location         : "Japan"
+  bio              : "Associate Professor at Dalian University of Technology"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qB3_NQgAAAAJ&hl=en&authuser=2"
-  email            : "weimin.wang[a~t]aist.go.jp "
+  email            : "wangweimin[a~t]dlut.edu.cn "
   researchgate     : "https://www.researchgate.net/profile/Weimin_Wang15"
   uri              :
   bitbucket        :
